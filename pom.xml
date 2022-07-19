@@ -6,6 +6,7 @@
 
     <groupId>com.aline</groupId>
     <artifactId>aline-bank-microservice</artifactId>
+    <name>Bank Microservice KL</name>
     <version>0.1.0</version>
 
     <packaging>pom</packaging>
