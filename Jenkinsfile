@@ -57,7 +57,7 @@ pipeline {
         }
         stage("Deploy ECS") {
             environment {
-                PROJECT_NAME = "Aline-Bank-Microservice"
+                PROJECT_NAME = "Aline-Financial-KL"
                 DB_PORT = "3306"
                 DB_NAME = "alinedb"
                 DB_USERNAME = credentials("DB_USERNAME_KL")
